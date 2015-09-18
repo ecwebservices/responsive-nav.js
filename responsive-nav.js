@@ -1,8 +1,8 @@
 /*! responsive-nav.js 1.0.39
- * https://github.com/viljamis/responsive-nav.js
+ * https://github.com/ecwebservices/responsive-nav.js
  * http://responsive-nav.com
  *
- * Copyright (c) 2015 @viljamis
+ * Copyright (c) 2015 @ECWS
  * Available under the MIT license
  */
 
